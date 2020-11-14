@@ -1,5 +1,4 @@
 // trouvé!! => NodeWatcher.register(node_to_monitor)
-// plus autodetect mono stéréo file..
 // Pour panner des fichiers stéréo utiliser Splay.ar => center arg.
 // On peux utiliser .register pour appller NodeWatcher avec Synth.
 
