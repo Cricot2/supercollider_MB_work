@@ -1,6 +1,10 @@
 # supercollider_MB_work
 SuperCollider and BBC MicroBit
 
+## Routine_debounce : 
+
+Un anti rebond pour faire des percution car attends que le sensor soit remonté...
+
 ## GrainTonic : OSC => BBC MB
 
 Ajouter un dossier soundfiles dans le dossier parent et mettre 3 sons dedans.
